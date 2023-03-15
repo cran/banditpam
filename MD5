@@ -1,4 +1,4 @@
-eb728723379f92d9ff8a32daf0a3467a *DESCRIPTION
+ca8a260c1c412deff49e5b0fc65e6ce0 *DESCRIPTION
 8c97f8cc56ebe62e2266913645bfcee1 *LICENSE
 0791904e26b5a0c3faf8f8489ef84999 *NAMESPACE
 f70cac7b148b58ad73c93ff0a80a1055 *NEWS.md
@@ -7,17 +7,18 @@ f70cac7b148b58ad73c93ff0a80a1055 *NEWS.md
 7be82b05ceee51c3fe85f56e4a59403f *R/RcppExports.R
 066f396aeecd86acc96449fb44bca1fd *R/autoconfig.R
 cc9a226cffcad9a9d9eab19a3814d823 *R/onload.R
-c0d39a277a5ba0494c87ef21a2d591da *README.md
+4c84f8f116bccb477337d449bfe87eb0 *README.md
 9295dfa45db8e4b5c595b6773272681b *build/vignette.rds
 3cfcec351a9b6b92fa0b1e3e9b76fc6f *cleanup
 c0bc6d1bfed87e4b9d0c666f9a9f4cf6 *configure
 a838894d31acdda9cd3c9d4a479c0a8c *configure.ac
 66d0751ccdc4bf47838d054559736cea *inst/doc/kmediods.R
 43d46dfb010bf7721d3ad63afffcbcf5 *inst/doc/kmediods.Rmd
-b25cea06db5cb018a61d048f021ff981 *inst/doc/kmediods.html
+9be3876049d603abe0b02ecb0e5bcd69 *inst/doc/kmediods.html
 fa979238702126b08a26a25f9969e684 *inst/tinytest/mnist_1k.RDS
 46f5f2817d5ca6ba419a1341db4cebba *inst/tinytest/test_BanditPAM.R
 d3466f516bde13bd26c534361a7825c1 *man/KMedoids.Rd
+dcfdbd659a9b54735f922e821523e8f0 *man/banditpam-package.Rd
 8b7037c4311a099db43f881bd941a6f2 *man/bpam_num_threads.Rd
 31eb7a539482066ddf1f01b0d3dda141 *man/figures/logo.png
 c62c3b6c773afdf3716111d347bb6db7 *src/Makevars.in
